@@ -1,5 +1,3 @@
-# MBO - Image Segmentation
-
 # Understanding the iterative thresholding method for image segmentation
 *Abe Raouh - July 18, 2023*
 
